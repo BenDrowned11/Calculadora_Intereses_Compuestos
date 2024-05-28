@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="calculation_types">
+        <item>Calcular Monto de Interés (I)</item>
+        <item>Calcular Monto Total (A)</item>
+        <item>Calcular Capital Inicial (P)</item>
+        <item>Calcular Tasa de Interés (r)</item>
+        <item>Calcular Tiempo (t)</item>
+    </string-array>
+</resources>
